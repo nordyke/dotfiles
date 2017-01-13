@@ -18,6 +18,7 @@ brew 'roundup'
 brew 'spark'
 brew 'unrar'
 brew 'wget'
+brew 'watchman'
 
 cask 'google-chrome'
 cask 'handbrake'

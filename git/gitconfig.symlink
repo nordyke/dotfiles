@@ -31,3 +31,7 @@
         #
         # Setting to git 2.0 default to suppress warning message
         default = simple
+[user]
+	signingkey = 8146EC8B22FA4614
+[commit]
+	gpgsign = true

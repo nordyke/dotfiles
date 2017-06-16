@@ -35,3 +35,5 @@
 	signingkey = 8146EC8B22FA4614
 [commit]
 	gpgsign = true
+[credential]
+	helper = osxkeychain

@@ -1,1 +1,1 @@
- export NODE_ENV=dockerdev
+ export NODE_ENV=development

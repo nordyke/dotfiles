@@ -33,7 +33,10 @@
         default = simple
 [user]
 	signingkey = 8146EC8B22FA4614
+	name = Aaron Nordyke
 [commit]
-	gpgsign = true
+	gpgsign = false
 [credential]
 	helper = osxkeychain
+[url "git@github.com:"]
+	insteadOf = https://github.com/

@@ -20,8 +20,13 @@ brew 'watchman'
 brew 'gnupg'
 brew 'gpg-agent'
 brew 'pinentry-mac'
+brew 'sbt@1'
+brew 'rabbitmq'
+brew 'docker-clean'
+brew 'tmux'
 cask 'google-chrome'
 cask 'handbrake'
 cask 'vlc'
 cask 'vagrant'
+
 

@@ -12,6 +12,9 @@ then
   source ~/.localrc
 fi
 
+# plugins
+plugins=(zsh-autosuggestions)
+
 # all of our zsh files
 typeset -U config_files
 config_files=($ZSH/**/*.zsh)
@@ -76,5 +79,4 @@ source <(kubectl completion zsh)
 
 eval "$(rbenv init -)"
 
-# plugins
-plugins=(zsh-autosuggestions)
+
